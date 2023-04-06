@@ -1,0 +1,10 @@
+.pulsador{
+    padding:15px;
+    width: auto;
+    display: inline-flex;
+    margin: 25px;
+	cursor: pointer;
+    color: rgb(18, 205, 80);
+    border-radius: 40px;
+    background: rgb(0, 0, 0);
+}
